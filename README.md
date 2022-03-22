@@ -2,13 +2,9 @@
 
 I created a gallery by taking photos from the Unsplash site.
 
-## DEMO 
-
-[!Live Demo] (https://Reactimage-gallery-unsplash.netlify.app/)
-
 ## API's 
 
-[!Unsplash] (https://unsplash.com/developers)
+(https://unsplash.com/developers)
 
 
 # Getting Started with Create React App
